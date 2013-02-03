@@ -4,4 +4,6 @@
 
 #sidebar-first h2 {
   font-weight:100;
+  color: #980000;
+  border-bottom: 1px solid #000;
 }
