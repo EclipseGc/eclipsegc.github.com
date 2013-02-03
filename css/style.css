@@ -8,8 +8,11 @@
   border-bottom: 1px solid #ddd;
 }
 
-#sidebar-first ul li {
+#sidebar-first ul {
   list-item-style: none;
+}
+
+#sidebar-first ul li {
   font-weight:200;
-  color: #ddd;
+  color: #555;
 }
