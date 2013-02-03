@@ -1,3 +1,7 @@
 #sidebar-first {
   font-family: "Proxima Nova Regular","Helvetica Neue",Arial,Helvetica,sans-serif;
 }
+
+#sidebar-first h2 {
+  font-weight:100;
+}
