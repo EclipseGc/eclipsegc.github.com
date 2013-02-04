@@ -1,6 +1,6 @@
 body {
   font-family: "Proxima Nova Regular","Helvetica Neue",Arial,Helvetica,sans-serif;
-  color: #980000;
+  color: #555;
 }
 
 #main-content h1 {
@@ -10,6 +10,7 @@ body {
 
 #sidebar-first h2 {
   font-weight:100;
+  color: #980000;
   border-bottom: 1px solid #ddd;
 }
 
@@ -19,5 +20,4 @@ body {
 
 #sidebar-first ul li {
   font-weight:200;
-  color: #555;
 }
