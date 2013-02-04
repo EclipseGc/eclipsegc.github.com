@@ -4,7 +4,7 @@ body {
 }
 
 #main-content .col-1 {
-  border-left: 1px solid #ddd;
+  background-color:#eee;
 }
 
 #main-content h1 {
