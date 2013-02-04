@@ -3,6 +3,11 @@ body {
   color: #555;
 }
 
+#main-content {
+  background-color: #eee;
+  padding:10px;
+}
+
 #main-content h1 {
   font-weight:100;
   border-bottom: 1px solid #ddd;
